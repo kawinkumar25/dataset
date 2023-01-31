@@ -16,3 +16,4 @@ price=df1['median_house_value']
 fig=plt.figure(figsize=(10,7))
 plt.bar(place,price)
 plt.show()
+
